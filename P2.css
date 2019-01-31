@@ -1,0 +1,51 @@
+/***/
+/*{*/
+/*border: 1px solid red;*/
+/*}*/
+
+html
+{
+    background: white;
+}
+
+body
+{
+    margin: 5% 15%;
+    text-align: center;
+    background: white;
+}
+
+section
+{
+    display: inline-block;
+    width: 20%;
+    background: green;
+    margin: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+section
+{
+    display: inline-block;
+    width: 20%;
+    background: blue;
+    margin: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+section
+{
+    display: inline-block;
+    width: 20%;
+    background: red;
+    margin: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+input
+{
+    width: 100%;
+}
+
+p{
+    text-align: left;
+}

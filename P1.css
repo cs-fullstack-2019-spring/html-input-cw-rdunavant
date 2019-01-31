@@ -1,0 +1,32 @@
+html
+{
+    background: blue;
+}
+body
+{
+    margin: 5% 15%;
+    text-align: center;
+    background: lightblue;
+}
+section
+{
+    display: inline-block;
+    width: 20%;
+    background: lightblue;
+    margin: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+article
+{
+    margin: 12px;
+    background: lightblue;
+    width: 100px;
+}
+input
+{
+    width: 100%;
+}
+p{
+    text-align: left;
+}
